@@ -15,8 +15,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lisbon.mk
+    $(LOCAL_DIR)/twrp_lisbon.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_lisbon-eng
+    twrp_lisbon-eng
 
