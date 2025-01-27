@@ -116,3 +116,8 @@ TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness"
 TW_DEFAULT_BRIGHTNESS := 1400
 TW_MAX_BRIGHTNESS := 2048
 TW_FRAMERATE := 90
+
+# Logs
+TWRP_EVENT_LOGGING := true
+TWRP_INCLUDE_LOGCAT := true
+TARGET_USES_LOGD := true
