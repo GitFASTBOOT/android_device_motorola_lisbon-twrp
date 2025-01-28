@@ -130,4 +130,4 @@ TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 
 # Modules
-TW_LOAD_VENDOR_MODULES := "ilitek_mtk_mmi.ko mtk_tpd_mmi.ko"
+#TW_LOAD_VENDOR_MODULES := "ilitek_mtk_mmi.ko mtk_tpd_mmi.ko"
